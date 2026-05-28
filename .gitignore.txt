@@ -1,0 +1,8 @@
+# Bỏ qua thư mục biên dịch rác
+Debug/
+Release/
+
+# Bỏ qua các file cấu hình cá nhân của IDE
+.settings/
+.mxproject
+*.launch
