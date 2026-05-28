@@ -105,7 +105,11 @@ Quan sát:
 * `speed_actual`
 
 ---
+#🎥 Video demo hệ thống
 
+Google Drive:
+
+[https://drive.google.com/xxxxxxxx](https://drive.google.com/file/d/1tiGrz6wLs8Gjv_RqGqYkjEnPx9ricCJP/view?usp=sharing)
 # 📌 Công nghệ sử dụng
 
 * STM32 HAL
